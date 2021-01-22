@@ -1,0 +1,10 @@
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\bin\Debug\Snake.exe.config
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\bin\Debug\Snake.exe
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\bin\Debug\Snake.pdb
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.Form1.resources
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.exe
+E:\_Obiektowe\Snake-Zaliczenie\Snake\Snake\obj\Debug\Snake.pdb
